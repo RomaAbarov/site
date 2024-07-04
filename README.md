@@ -1,3 +1,7 @@
+Переписывание готового сайта на react(ReactJS, CSS, HTML, React router). Реализация переключения темы, react router.
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
